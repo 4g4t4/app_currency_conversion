@@ -1,0 +1,10 @@
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\obj\Debug\Interface.Properties.Resources.resources
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\bin\Debug\Interface.exe.config
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\bin\Debug\Interface.exe
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\bin\Debug\Interface.pdb
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\obj\Debug\Interface.exe
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\obj\Debug\Interface.pdb
+E:\Microsoft Visual Studio\source\App currency conversion\Interface\obj\Debug\Interface.Form1.resources
